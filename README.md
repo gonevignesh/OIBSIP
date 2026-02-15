@@ -12,7 +12,7 @@ Here are the projects I completed during my internship at **Oasis Infobyte**. I 
 
 ---
 
-## 🤖 Project 1: Aura AI Landing Page
+## 🤖 Project 1: Landing Page
 
 For the first project, I focused on UI/UX design, creating a modern landing page for a concept product "Aura AI".
 
@@ -71,7 +71,6 @@ This project is a functional tool that converts temperatures between Celsius, Fa
 **Gone Vignesh**
 - **Internship:** Oasis Infobyte
 - **Role:** Web Development Intern
-- **Goal:** To keep learning and become a Full Stack Developer.
 
 ---
 © 2026 Gone Vignesh.
